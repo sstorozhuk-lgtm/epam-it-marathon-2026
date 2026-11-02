@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "account_id" {
   description = "AWS account ID"
   type        = string
-  default     = "747482682250"
+  default     = "201531022834"
 }
 
 variable "alert_emails" {
